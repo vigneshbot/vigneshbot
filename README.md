@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m an aspiring B.Tech student pursuing Computer Science and Engineering interested in taking up challenges in an organization that allows development of my knowledge and skills. Hard-working, problem-solving enthusiast interested in using my programming skills in helping boost my experience. 
 
 [![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=vigneshbot&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshbot&layout=compact&&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
